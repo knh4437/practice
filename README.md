@@ -1,2 +1,2 @@
 # TestGit
-For Spring and Git practice
+practice의 git 연습중
